@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BlazorContatos.WebApp/1.0.0": {
+        "dependencies": {
+          "BlazorContatos.Shared": "1.0.0"
+        },
+        "runtime": {
+          "BlazorContatos.WebApp.dll": {}
+        }
+      },
+      "BlazorContatos.Shared/1.0.0": {
+        "runtime": {
+          "BlazorContatos.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorContatos.WebApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorContatos.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
